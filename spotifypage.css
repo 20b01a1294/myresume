@@ -1,0 +1,21 @@
+.shape{
+    padding: 15px 45px;
+    border-radius: 20px;
+    background-color: rgb(48, 114, 212);
+    color: white;
+}
+.signup{
+    color: ghostwhite;
+    background-color: rgb(37, 228, 50);
+    border-radius: 50px;
+    padding: 15px 95px;
+}
+.border{
+    border-collapse: collapse;
+    background: ghostwhite;
+    
+
+}
+.text{
+    size: 25px;
+}
